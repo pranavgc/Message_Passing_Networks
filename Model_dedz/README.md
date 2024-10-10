@@ -1,1 +1,1 @@
-
+Message Passing Network where, the message passed is are Neighbouring Node properties are passed through an 2 Multi_Layer Perceptrons(MLP) muliplied by edge_weight/attribute and a trainable parameter. Node properties includes de/dz across the nodes. Update: Self_loops and New parameter Prominent Node added.
